@@ -4,7 +4,7 @@ platform :ios, '10.0'
 
 target 'HYLBanner_Example' do
   pod 'HYLBanner', :path => '../'
-
+  pod 'SDWebImage'
   target 'HYLBanner_Tests' do
     inherit! :search_paths
 
