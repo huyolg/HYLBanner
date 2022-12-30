@@ -22,7 +22,7 @@ pod 'HYLBanner'
 
 ## Author
 
-Func-Dev-20 (Functional Account), func-dev-20@signify.com
+hudada
 
 ## License
 
